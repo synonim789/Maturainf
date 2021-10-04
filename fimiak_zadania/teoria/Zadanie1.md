@@ -9,3 +9,10 @@ JEŻELI
  a < b
  </br>
  a modulo b = a
+
+## Zadanie 1.2
+![github-small](https://github.com/synonim789/Maturainf/blob/main/zdjecia/1.2.png)
+
+
+## Zadanie 1.3
+![github-small](https://github.com/synonim789/Maturainf/blob/main/zdjecia/1.3.png)
