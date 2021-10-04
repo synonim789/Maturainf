@@ -1,1 +1,15 @@
-python zadanie boże
+python notateczki boże
+
+potega do 2 to np. **2
+
+odejmowanie ostatniej liczby [:-1]
+
+odejmowanie pierwszej liczby [:0]
+
+po def dwie spacje
+
+na koncu jedna spacja BO BŁEDY WYJEBUJĄ
+
+przecinek na koncu w słowniku
+
+komentarz to #
