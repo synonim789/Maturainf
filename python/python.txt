@@ -1,1 +1,3 @@
 python zadanie boże
+po def dwie spacje
+na koncu jedna spacja BO BŁEDY WYJEBUJĄ
