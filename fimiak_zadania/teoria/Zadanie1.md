@@ -16,3 +16,5 @@ JEŻELI
 
 ## Zadanie 1.3
 ![github-small](https://github.com/synonim789/Maturainf/blob/main/zdjecia/1.3.png)
+</br>
+"←" TO ZNAK "="
