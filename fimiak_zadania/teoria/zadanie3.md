@@ -27,3 +27,7 @@ F(4,8) ma 5 operacji mnozenia poniewaz F(4,8) = 4*F(4,7), cczyli 1 mnozenie doda
 </br>
 F(4,9) ma 4 operacje mnozenia poniewaz F(4,9) = F(4,3)^3 + F(4,1)^3, czyli 2 mnozenia dodac 2 mnozenia
 </br>
+
+## Zadanie 3.4
+![github-small](https://github.com/synonim789/Maturainf/blob/main/zdjecia/3.4.png)
+Liczba n, która jest potęga 3 za każdym razem przechodząc przez algorytm będzie zmniejszała się o 1 do momentu aż sama liczba wyniesie 1. takich zmniejszen bedzie  log3n po kazdym z tych wywołań zostaną wykonane dwa mnożenia dlate wynik wynosi 2 · log3n
