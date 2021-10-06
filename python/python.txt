@@ -13,3 +13,5 @@ na koncu jedna spacja BO BŁEDY WYJEBUJĄ
 przecinek na koncu w słowniku
 
 komentarz to #
+
+/n tworzy nową linie w pliku
