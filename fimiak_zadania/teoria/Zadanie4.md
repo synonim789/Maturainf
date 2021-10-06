@@ -7,3 +7,7 @@
 
 ## Zadanie 4.3
 ![github-small](https://github.com/synonim789/Maturainf/blob/main/zdjecia/4.3.png)
+
+## Zadanie 4.4
+![github-small](https://github.com/synonim789/Maturainf/blob/main/zdjecia/4.4.png)
+K! / K = K-1!
