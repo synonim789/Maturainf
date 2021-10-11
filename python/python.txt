@@ -15,3 +15,7 @@ przecinek na koncu w słowniku
 komentarz to #
 
 /n tworzy nową linie w pliku
+
+list.append - dodaje zawsze jeden element do listy nawet jak jest kilka
+
+list.extend - dodaje kilka elementów
